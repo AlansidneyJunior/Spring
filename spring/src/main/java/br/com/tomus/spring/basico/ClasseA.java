@@ -1,4 +1,4 @@
-package br.com.tomus.spring;
+package br.com.tomus.spring.basico;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Primary;

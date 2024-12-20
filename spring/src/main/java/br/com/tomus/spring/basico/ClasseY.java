@@ -1,12 +1,12 @@
-package br.com.tomus.spring;
+package br.com.tomus.spring.basico;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component
-@Primary
-public class ClasseX implements InterfaceB{
+public class ClasseY implements InterfaceB{
+	
 	public void metodoInterfaceB() {
-		System.out.println("Método na classe X.");
+		System.out.println("Método na classe Y.");
 	}
 }

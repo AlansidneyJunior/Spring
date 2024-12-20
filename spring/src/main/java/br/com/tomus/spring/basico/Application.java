@@ -1,4 +1,4 @@
-package br.com.tomus.spring;
+package br.com.tomus.spring.basico;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

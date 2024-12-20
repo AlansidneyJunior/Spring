@@ -1,4 +1,4 @@
-package br.com.tomus.spring;
+package br.com.tomus.spring.basico;
 
 public interface InterfaceB {
 	public void metodoInterfaceB();
